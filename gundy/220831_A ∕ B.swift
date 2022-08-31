@@ -1,5 +1,5 @@
-func divide(_ firstNumber: Int, by secondNumber: Int) {
-    print(Double(firstNumber) / Double(secondNumber))
+func divide(_ A: Int, by B: Int) {
+    print(Double(A) / Double(B))
 }
 
 divide(1, by: 3)
