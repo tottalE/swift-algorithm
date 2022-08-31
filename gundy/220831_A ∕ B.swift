@@ -1,7 +1,5 @@
-func divide(_ A: Int, by B: Int) {
-    print(Double(A) / Double(B))
+if let numbers = readLine()?.split(separator: " ") {
+    if let A = Double(numbers[0]), let B = Double(numbers[1]) {
+        print(A/B)
+    }
 }
-
-divide(1, by: 3)
-
-divide(4, by: 5)
