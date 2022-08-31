@@ -33,11 +33,11 @@
 | 20220902 | [구구단](https://www.acmicpc.net/problem/2739) |  |  |  |  |  |  |
 | 20220905 | [사칙 연산](https://www.acmicpc.net/problem/10869) |  |  |  |  |  |  |
 | 20220906 | [숫자의 합](https://www.acmicpc.net/problem/11720) |  |  |  |  |  |  |
-| 20220907 |  |  |  |  |  |  |  |
-| 20220908 |  |  |  |  |  |  |  |
-| 20220909 |  |  |  |  |  |  |  |
-| 20220913 |  |  |  |  |  |  |  |
-| 20220914 |  |  |  |  |  |  |  |
+| 20220907 | [최댓값](https://www.acmicpc.net/problem/2562) |  |  |  |  |  |  |
+| 20220908 | [최소, 최대](https://www.acmicpc.net/problem/10818) |  |  |  |  |  |  |
+| 20220909 | [문자열 반복](https://www.acmicpc.net/problem/2675) |  |  |  |  |  |  |
+| 20220913 | [음계](https://www.acmicpc.net/problem/2920) |  |  |  |  |  |  |
+| 20220914 | [OX 퀴즈](https://www.acmicpc.net/problem/8958) |  |  |  |  |  |  |
 | 20220915 |  |  |  |  |  |  |  |
 | 20220916 |  |  |  |  |  |  |  |
 | 20220919 |  |  |  |  |  |  |  |
