@@ -31,7 +31,7 @@
 | 20220831 | [A/B](https://www.acmicpc.net/problem/1008), [구구단](https://www.acmicpc.net/problem/2739) | ✅ | ✅ |  | ✅ | ✅ | ✅ |
 | 20220901 | [두 수 비교하기](https://www.acmicpc.net/problem/1330), [별 찍기 - 1](https://www.acmicpc.net/problem/2438) |  |  |  |  |  |  |
 | 20220902 | [윤년](https://www.acmicpc.net/problem/2753) |  |  |  |  |  |  |
-| 20220905 | [사칙 연산](https://www.acmicpc.net/problem/10869) [수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) |  |  |  |  |  |  |
+| 20220905 | [사칙 연산](https://www.acmicpc.net/problem/10869), [수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) |  |  |  |  |  |  |
 | 20220906 | [숫자의 합](https://www.acmicpc.net/problem/11720) |  |  |  |  |  |  |
 | 20220907 | [최댓값](https://www.acmicpc.net/problem/2562) |  |  |  |  |  |  |
 | 20220908 | [최소, 최대](https://www.acmicpc.net/problem/10818) |  |  |  |  |  |  |
