@@ -26,9 +26,9 @@
 - 5번 이상 스터디 불참시 역시 자동 제명됩니다.
 - 가능하다면 https://solved.ac/problems/sprout 완료하기!
 ## 문제풀이 타임라인
-|  | 문제 | 토털이 | 건디 | 불꽃발차기 | jane | july | 아얀 |
+|  | 문제 | 토털이 | 건디 | 드래곤 | jane | july | 아얀 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20220831 | [A/B](https://www.acmicpc.net/problem/1008), [구구단](https://www.acmicpc.net/problem/2739) | ✅ | ✅ |  | ✅ | ✅ | ✅ |
+| 20220831 | [A/B](https://www.acmicpc.net/problem/1008), [구구단](https://www.acmicpc.net/problem/2739) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 20220901 | [두 수 비교하기](https://www.acmicpc.net/problem/1330), [윤년](https://www.acmicpc.net/problem/2753) |  |  |  |  |  |  |
 | 20220902 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) |  |  |  |  |  |  |
 | 20220905 | [사칙 연산](https://www.acmicpc.net/problem/10869), [수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) |  |  |  |  |  |  |
