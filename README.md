@@ -35,7 +35,7 @@
 | 20220906 | [숫자의 합](https://www.acmicpc.net/problem/11720) |  | ✅ | ✅ | ✅ |  | ✅ |
 | 20220907 | [최댓값](https://www.acmicpc.net/problem/2562) |  | ✅ |  |  |  | ✅ |
 | 20220908 | [two sum](https://leetcode.com/problems/two-sum/) |  |  |  |  |  |  |
-| 20220909 | [three sum](https://leetcode.com/problems/3sum/) |  |  |  |  |  |  |
+| 20220909 | [three sum](https://leetcode.com/problems/3sum/) |  |  |  |  |  |  ✅ |
 | 20220913 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) |  |  |  |  |  |  |
 | 20220914 | [first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/) |  |  |  |  |  |  |
 | 20220915 |  |  |  |  |  |  |  |
