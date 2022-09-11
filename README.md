@@ -36,8 +36,8 @@
 | 20220907 | [최댓값](https://www.acmicpc.net/problem/2562) |  | ✅ | ✅ |  |  | ✅ |
 | 20220908 | [two sum](https://leetcode.com/problems/two-sum/) | ❎ | ✅ | ✅ |  |  | ✅ |
 | 20220909 | [three sum](https://leetcode.com/problems/3sum/) |  | ✅ | ✅ |  |  |  ✅ |
-| 20220913 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) |  |  |  |  |  |  |
-| 20220914 | [first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/) |  |  |  |  |  |  |
+| 20220913 | [sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/) |  |  |  |  |  |  |
+| 20220914 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |  |  |  |  |  |  |
 | 20220915 |  |  |  |  |  |  |  |
 | 20220916 |  |  |  |  |  |  |  |
 | 20220919 |  |  |  |  |  |  |  |
