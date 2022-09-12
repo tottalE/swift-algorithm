@@ -1,0 +1,15 @@
+class Solution {
+    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+        var countIndex = nums.count - 1 
+        var answer: [Int] = []
+        nums.enumerated().forEach { index, num in 
+            nums.enumerated().forEach { index2, cg in 
+                if cg + num == target && index != index2 { 
+                    answer.append(index)
+                    answer.append(index2)
+                }
+            }                
+        }
+        return Array(Set(answer)).sorted { $0 < $1 }
+    }
+}
