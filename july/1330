@@ -1,0 +1,11 @@
+ let input = readLine()!.description
+    let seper = input.split(separator: " ")
+    let lef = Int(seper.first!)!
+    let right = Int(seper.last!)!
+    if lef > right {
+        print( ">")
+    } else if lef < right {
+        print("<")
+    } else {
+    print("==")
+    }
