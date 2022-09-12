@@ -1,0 +1,9 @@
+func solution(_ n:Int) -> String {
+   (0..<n).enumerated().map { index, num -> String in 
+       if index % 2 == 0 {
+            return "수"
+       } else { 
+            return "박"
+       }                
+  }.joined()
+}
