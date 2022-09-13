@@ -34,7 +34,7 @@
 | 20220905 | [사칙 연산](https://www.acmicpc.net/problem/10869), [수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) |  | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 20220906 | [숫자의 합](https://www.acmicpc.net/problem/11720) |  | ✅ | ✅ | ✅ |  | ✅ |
 | 20220907 | [최댓값](https://www.acmicpc.net/problem/2562) |  | ✅ | ✅ |  |  | ✅ |
-| 20220908 | [two sum](https://leetcode.com/problems/two-sum/) | ❎ | ✅ | ✅ |  |  | ✅ |
+| 20220908 | [two sum](https://leetcode.com/problems/two-sum/) | ❎ | ✅ | ✅ | ✅ |  | ✅ |
 | 20220909 | [three sum](https://leetcode.com/problems/3sum/) | ✅ | ✅ | ✅ |  |  |  ✅ |
 | 20220913 | [sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/) |  | ✅ |  |  |  |  |
 | 20220914 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |  |  |  |  |  |  |
