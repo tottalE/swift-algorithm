@@ -38,7 +38,7 @@
 | 20220909 | [three sum](https://leetcode.com/problems/3sum/) | ✅ | ✅ | ✅ |  |  |  ✅ |
 | 20220913 | [sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/) | ✅ | ✅ | ✅ |  |  |  ✅ |
 | 20220914 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) | ✅ | ✅ | ✅ |  |  |  |
-| 20220915 | [evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| ✅ |  |  |  |  |  |
+| 20220915 | [evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| ✅ | ✅ |  |  |  |  |
 | 20220916 |  |  |  |  |  |  |  |
 | 20220919 |  |  |  |  |  |  |  |
 | 20220920 |  |  |  |  |  |  |  |
