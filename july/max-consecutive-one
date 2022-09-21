@@ -2,17 +2,22 @@ class Solution {
     func findMaxConsecutiveOnes(_ nums: [Int]) -> Int {
         var std: Int = nums[0]
         var sum: Int = nums[0]
-        var can: [Int] = []
+        var max: Int = 0 
         nums.enumerated().forEach { idx, num in 
-            guard idx != 0 else { return }
+            guard idx != 0 else { 
+                max = num
+                return 
+            }
             
             if num == std { 
                 sum += num 
             } else { 
                 std = num 
-                can.append(sum)
                 sum = std 
             }
+               if sum > max { 
+                    max = sum 
+                }                      
             
         }
         
@@ -20,17 +25,22 @@ class Solution {
         std = nums.last!
         sum = nums.last!
           numReversed.enumerated().forEach { idx, num in 
-            guard idx != 0 else { return }
+            guard idx != 0 else {
+                return 
+            }
             
             if num == std { 
                 sum += num 
             } else { 
                 std = num 
-                can.append(sum)
+               
                 sum = std
             }
+               if sum > max { 
+                    max = sum 
+                }
         }
     
-    return can.max()!
+    return max
 }
 }
