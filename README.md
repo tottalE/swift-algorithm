@@ -43,10 +43,10 @@
 | 20220919 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/) | ❎ | ✅ |  |  |  |  |
 | 20220920 | [decode-string](https://leetcode.com/problems/decode-string/) | ✅ | ✅ |  |  |  |  |
 | 20220921 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | ✅ | ✅ |  |  |  |  |
-| 20220922 |  |  |  |  |  |  |  |
-| 20220923 |  |  |  |  |  |  |  |
-| 20220926 |  |  |  |  |  |  |  |
-| 20220927 |  |  |  |  |  |  |  |
-| 20220928 |  |  |  |  |  |  |  |
+| 20220922 | [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |  |  |  |  |
+| 20220923 | [last-stone-weight](https://leetcode.com/problems/last-stone-weight/) |  |  |  |  |  |  |
+| 20220926 | [kth-largest-element-in-a-stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |  |  |  |  |  |  |
+| 20220927 | [relative-ranks](https://leetcode.com/problems/relative-ranks/) |  |  |  |  |  |  |
+| 20220928 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |  |  |  |  |  |  |
 | 20220929 |  |  |  |  |  |  |  |
 | 20220930 |  |  |  |  |  |  |  |
