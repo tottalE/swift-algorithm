@@ -42,7 +42,7 @@
 | 20220916 | [simplify-path](https://leetcode.com/problems/simplify-path/) | ✅ | ✅ |  |  |  |  |
 | 20220919 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/) | ❎ | ✅ |  |  |  |  |
 | 20220920 | [decode-string](https://leetcode.com/problems/decode-string/) | ✅ | ✅ |  |  |  |  |
-| 20220921 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |  |  |  |  |  |  |
+| 20220921 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |  | ✅ |  |  |  |  |
 | 20220922 |  |  |  |  |  |  |  |
 | 20220923 |  |  |  |  |  |  |  |
 | 20220926 |  |  |  |  |  |  |  |
