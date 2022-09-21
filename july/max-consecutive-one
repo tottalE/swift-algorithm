@@ -1,0 +1,36 @@
+class Solution {
+    func findMaxConsecutiveOnes(_ nums: [Int]) -> Int {
+        var std: Int = nums[0]
+        var sum: Int = nums[0]
+        var can: [Int] = []
+        nums.enumerated().forEach { idx, num in 
+            guard idx != 0 else { return }
+            
+            if num == std { 
+                sum += num 
+            } else { 
+                std = num 
+                can.append(sum)
+                sum = std 
+            }
+            
+        }
+        
+        var numReversed = nums.reversed() 
+        std = nums.last!
+        sum = nums.last!
+          numReversed.enumerated().forEach { idx, num in 
+            guard idx != 0 else { return }
+            
+            if num == std { 
+                sum += num 
+            } else { 
+                std = num 
+                can.append(sum)
+                sum = std
+            }
+        }
+    
+    return can.max()!
+}
+}
