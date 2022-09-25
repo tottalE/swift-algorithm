@@ -1,0 +1,29 @@
+func isPalindrome(_ head: ListNode?) -> Bool {
+        let constant = head?.val
+        var nextNode: ListNode? = head
+        var value: [Int?] = [constant]
+        
+        while let next = nextNode?.next {
+            let curValue = next.val
+            value.append(curValue)
+            nextNode = next
+        }
+        
+        guard value.count != 1 else {
+            return true
+        }
+        
+        let count = value.compactMap { $0 }.count
+        let range = count % 2 == 0 ? count/2 - 1 : (count + 1) / 2
+        let valuePrefix = value[0...range]
+        (0...range).forEach { num in
+            value.popLast()
+        }
+        
+        
+        return (nextNode?.val == constant) && value == valuePrefix.map { Int($0!) } ? true : false
+    }
+    
+    }
+    
+    적용 개념 : 링크드리스트를 nil 까지 순회하고 앞에서부터 빼준다. 
