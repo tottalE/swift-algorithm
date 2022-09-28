@@ -39,9 +39,9 @@
 | 20220913 | [sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/) | ✅ | ✅ | ✅ |  | ✅ |  ✅ |
 | 20220914 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) | ✅ | ✅ | ✅ |  | ✅ |  ✅|
 | 20220915 | [evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| ✅ | ✅ | ✅ |  |  |  ✅|
-| 20220916 | [simplify-path](https://leetcode.com/problems/simplify-path/) | ✅ | ✅ |  |  |  |  ✅|
-| 20220919 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/) | ❎ | ✅ |  |  |  |✅ |
-| 20220920 | [decode-string](https://leetcode.com/problems/decode-string/) | ✅ | ✅ |  |  |  | ✅ |
+| 20220916 | [simplify-path](https://leetcode.com/problems/simplify-path/) | ✅ | ✅ | ✅ |  |  |  ✅|
+| 20220919 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/) | ❎ | ✅ | ❎ |  |  |✅ |
+| 20220920 | [decode-string](https://leetcode.com/problems/decode-string/) | ✅ | ✅ | ❎ |  |  | ✅ |
 | 20220921 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | ✅ | ✅ |  |  | ✅ |✅ |
 | 20220922 | [palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/) | ✅ | ✅ |  |  |✅  | ✅ |
 | 20220923 | [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ✅ | ✅ |  |  |  | ✅ |
