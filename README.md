@@ -45,7 +45,7 @@
 | 20220921 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | ✅ | ✅ |  |  | ✅ |✅ |
 | 20220922 | [palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/) | ✅ | ✅ |  |  |✅  | ✅ |
 | 20220923 | [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ✅ | ✅ |  |  |  | ✅ |
-| 20220926 | [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | ✅ | ✅ |  |  |  | ✅ |
+| 20220926 | [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | ✅ | ✅ |  |  |  ✅ | ✅ |
 | 20220927 | [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |  | ✅ |  |  |  | ✅ |
 | 20220928 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |  | ✅ |  |  |  |  |
 | 20220929 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |  |  |  |  |  |  |
