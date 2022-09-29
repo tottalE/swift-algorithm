@@ -48,5 +48,5 @@
 | 20220926 | [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | ✅ | ✅ |  |  |  ✅ | ✅ |
 | 20220927 | [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |  | ✅ |  |  |  | ✅ |
 | 20220928 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |  | ✅ |  |  |  |  |
-| 20220929 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |  |  |  |  |  |  |
+| 20220929 | [sort-list](https://leetcode.com/problems/sort-list/) |  |  |  |  |  |  |
 | 20220930 |  |  |  |  |  |  |  |
