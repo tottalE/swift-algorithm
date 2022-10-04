@@ -28,6 +28,10 @@
 ## 문제풀이 타임라인
 |  | 문제 | 토털이 | 건디 | 드래곤 | jane | july | 아얀 |
 | --- | --- |:---:|:---:|:---:|:---:|:---:|:---:|
+| 20221004 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) |  |  |  |  |  |  |
+
+|  | 문제 | 토털이 | 건디 | 드래곤 | jane | july | 아얀 |
+| --- | --- |:---:|:---:|:---:|:---:|:---:|:---:|
 | 20220831 | [A/B](https://www.acmicpc.net/problem/1008), [구구단](https://www.acmicpc.net/problem/2739) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 20220901 | [두 수 비교하기](https://www.acmicpc.net/problem/1330), [윤년](https://www.acmicpc.net/problem/2753) | ✅ | ✅ | ✅ | ✅ |  | ✅ |
 | 20220902 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
