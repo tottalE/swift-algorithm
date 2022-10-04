@@ -46,7 +46,7 @@
 | 20220922 | [palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/) | ✅ | ✅ |  |  |✅  | ✅ |
 | 20220923 | [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ✅ | ✅ |  |  |  | ✅ |
 | 20220926 | [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | ✅ | ✅ |  |  |  ✅ | ✅ |
-| 20220927 | [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |  | ✅ |  |  |  | ✅ |
-| 20220928 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |  | ✅ |  |  |  |  |
+| 20220927 | [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |  | ✅ |  |  | X | ✅ |
+| 20220928 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) |  | ✅ |  |  | X |  |
 | 20220929 | [sort-list](https://leetcode.com/problems/sort-list/) |  | ✅ |  |  |  |  |
-| 20220930 | [3sum](https://leetcode.com/problems/3sum/) |  |  |  |  |  |  |
+| 20220930 | [3sum](https://leetcode.com/problems/3sum/) |  |  |  |  |✅  |  |
