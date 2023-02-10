@@ -26,6 +26,14 @@
 - 5번 이상 스터디 불참시 역시 자동 제명됩니다.
 - 가능하다면 https://solved.ac/problems/sprout 완료하기!
 ## 문제풀이 타임라인
+|  | 문제 | 세은 | 세영 | 코털 |
+| --- | --- |:---:|:---:|:---:|
+| 20221004 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) |  |  |  | 
+| 20221017 | [first-bad-version](https://leetcode.com/problems/first-bad-version/) |  |  |  | 
+
+
+
+
 |  | 문제 | 토털이 | 건디 | 드래곤 | jane | july | 아얀 |
 | --- | --- |:---:|:---:|:---:|:---:|:---:|:---:|
 | 20221004 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) |  |  |  |  |  |  |
