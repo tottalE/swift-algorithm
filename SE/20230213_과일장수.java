@@ -4,7 +4,6 @@ class Solution {
     public int solution(int k, int m, int[] score) {
         Arrays.sort(score);
         int answer = 0;
-        int boxcount = score.length / m;
         int index = score.length -1;
         while (index >= 0) {
             //System.out.println(index);
